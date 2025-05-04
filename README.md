@@ -38,7 +38,10 @@ ONLINE_STORE_MANAGEMENT/
 - **Database**: MySQL
 - **Server**: Apache (XAMPP/LAMP/WAMP stack)
 
-
+🙌 Credits
+Created by Garv Rana
+Project developed to strengthen backend development skills using PHP and MySQL.
+Designed as part of academic coursework and used in a real-world store environment for managing data efficiently.
 
 ---
 
